@@ -20,3 +20,4 @@ Recommendation systems power personalized experiences on platforms like Netflix,
 
 # Output
 
+![Image](https://github.com/user-attachments/assets/f7f64218-a0fa-4344-8f7d-29dd6a99a1ba)
